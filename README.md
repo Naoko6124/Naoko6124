@@ -1,11 +1,11 @@
 # About Me
-Game/Engine Developer
+Our lives are so brief and unimportant. The cosmos cares nothing for us. For what we've done; Had we wrought evil instead of good. Had I chosen to abuse the Apple instead of seal it away. None of it would have mattered. There is no counting. No reckoning. No final judgement. There is simply silence. And darkness. Utter and absolute...
 
 
 ## Links
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/166583724920668162)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/naoko_hirose) 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)]()
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/naoko_hirose/)
 
 ## Stack
 ### Languages
