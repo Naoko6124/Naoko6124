@@ -1,5 +1,5 @@
 # About Me
-Our lives are so brief and unimportant. The cosmos cares nothing for us. For what we've done; Had we wrought evil instead of good. Had I chosen to abuse the Apple instead of seal it away. None of it would have mattered. There is no counting. No reckoning. No final judgement. There is simply silence. And darkness. Utter and absolute...
+✧\I will get my own kingdom/✧
 
 
 ## Links
