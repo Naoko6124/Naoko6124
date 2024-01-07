@@ -1,5 +1,5 @@
 # About Me
-✧\I will get my own kingdom/✧
+i code
 
 
 ## Links
